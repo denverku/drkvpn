@@ -5,6 +5,6 @@
 "Servers":[{
       "Name":"Singapore 1",
       "Flag":"SG",
-      "Host":"sg.iappstore.cf"
+      "Host":"sg1.iappstore.cf"
 }]
 }
