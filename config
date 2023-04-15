@@ -6,5 +6,9 @@
       "Name":"Singapore 1",
       "Flag":"SG",
       "Host":"sg1.iappstore.cf"
+},{
+      "Name":"Singapore 2",
+      "Flag":"SG",
+      "Host":"sg2.iappstore.cf"
 }]
 }
