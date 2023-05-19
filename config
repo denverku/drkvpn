@@ -70,6 +70,22 @@
 
       "Host":"ready08.saifreevpn.net"
 
+},{
+
+      "Name":"Thailand 9",
+
+      "Flag":"TH",
+
+      "Host":"ready09.saifreevpn.net"
+
+},{
+
+      "Name":"Thailand 10",
+
+      "Flag":"TH",
+
+      "Host":"ready10.saifreevpn.net"
+
 }]
 
 }
