@@ -1,6 +1,6 @@
 {
 
-"Version":5,
+"Version":6,
 
 "ReleaseNotes":["Added More"],
 
@@ -28,7 +28,7 @@
 
       "Cert":0,
 
-      "Host":"ready02.saifreevpn.net"
+      "Host":"grvip02.giantvpn.net"
 
 },{
 
@@ -38,7 +38,7 @@
 
       "Cert":0,
 
-      "Host":"ready03.saifreevpn.net"
+      "Host":"grvip03.giantvpn.net"
 
 },{
 
@@ -48,7 +48,7 @@
 
       "Cert":0,
 
-      "Host":"ready04.saifreevpn.net"
+      "Host":"grvip04.giantvpn.net"
 
 },{
 
@@ -58,7 +58,7 @@
 
       "Cert":0,
 
-      "Host":"ready05.saifreevpn.net"
+      "Host":"grvip05.giantvpn.net"
 
 },{
 
@@ -68,7 +68,7 @@
 
       "Cert":0,
 
-      "Host":"ready06.saifreevpn.net"
+      "Host":"grvip06.giantvpn.net"
 
 },{
 
@@ -78,7 +78,7 @@
 
       "Cert":0,
 
-      "Host":"ready07.saifreevpn.net"
+      "Host":"grvip07.giantvpn.net"
 
 },{
 
@@ -88,7 +88,7 @@
 
       "Cert":0,
 
-      "Host":"ready08.saifreevpn.net"
+      "Host":"grvip08.giantvpn.net"
 
 },{
 
@@ -98,7 +98,7 @@
 
       "Cert":0,
 
-      "Host":"ready09.saifreevpn.net"
+      "Host":"grvip09.giantvpn.net"
 
 },{
 
@@ -108,7 +108,7 @@
 
       "Cert":0,
 
-      "Host":"ready10.saifreevpn.net"
+      "Host":"grvip10.giantvpn.net"
 
 },{
 
