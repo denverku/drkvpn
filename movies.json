@@ -1,1 +1,4 @@
-["https://xtreamhub.com/video/[id]", "https://vivamax.asia/embed/movie?id=[id]", "https://vidsrc.me/embed/[id]/", "https://v2.vidsrc.me/embed/[id]/", "https://autoembed.to/movie/tmdb/[id]?server=1&ss=3"]
+{
+  "Servers":[https://xtreamhub.com/video/[id]", "https://vivamax.asia/embed/movie?id=[id]", "https://vidsrc.me/embed/[id]/", "https://v2.vidsrc.me/embed/[id]/", "https://autoembed.to/movie/tmdb/[id]?server=1&ss=3"],
+  "Show": false
+}
